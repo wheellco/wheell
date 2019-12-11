@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+nav{
+  margin: 0 0 0 0;
+  font-family: "Scada", sans-serif;
+  font-weight: bold;
+  font-size: 100%;
+  background-color: white;
+  width: 100%;
+  overflow: hidden;
+
+}
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  float: right;
+ }
+nav ul li.info{
+  display: block;
+  float: right;
+  margin-right: 85.5px;
+}
+nav ul li a:hover {
+  color: #dddddd;
+}
+nav ul li.logo{
+  float: left;
+  display: block;
+  margin: 5.5vh 3vw 5.5vh .9vw;
+  font-size: 35px;
+  color: #444444;
+}
+nav a{
+  text-decoration: none;
+  color: #ee6c52;
+  font-size: 25px;
+  display: block;
+  margin: 55px 55px 3.3vw 0px;
+}
+nav i{
+  display: block;
+  float: left;
+  margin: 3.9vh 0 0 2.1vw;
+  font-size: 8vh;
+  color: #ee6c52;
+}
+
+body {
+  font-family: "Scada", sans-serif;
+  background-color: #f3f3f3;
+}
