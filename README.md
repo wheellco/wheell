@@ -1,2 +1,0 @@
-# wheell
-Wheelchair Accessibility App
